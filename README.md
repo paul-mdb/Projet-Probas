@@ -1,1 +1,1 @@
-# Projet-Probas
+# Projet numérique sur les probabilités
